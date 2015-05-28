@@ -1,2 +1,2 @@
 # hartl_tutorial_app
-Following along with the Hartl RoR tutorial: 
+Following along with the Hartl RoR tutorial: https://www.railstutorial.org/book/ 
